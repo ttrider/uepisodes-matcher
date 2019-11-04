@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+lib
+# we don't need *.js files in git
+*.js
+*.js.map
+
